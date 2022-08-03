@@ -1,4 +1,4 @@
-# avr-uno-pin-change-interrupt
+# AVR - Arduino Uno: Pin change interrupt
 This is a code for a pin change interrupt using a single pin. The code is made complicated by adding a second output pin.
 The first output pin is PIN13, this pin is connected to the Arduino-Uno's built-in LED which would then serve as the
 first output. Second output pin is PIN9, an external LED is connected to this PIN which then would serve as the second
