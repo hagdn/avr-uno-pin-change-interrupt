@@ -4,6 +4,8 @@ The first output pin is PIN13, this pin is connected to the Arduino-Uno's built-
 first output. Second output pin is PIN9, an external LED is connected to this PIN which then would serve as the second
 output.
 
+For more information consult the ATMega328p datasheet page 56-57.
+
 ##  How to upload the code:
 ###     A. Through Arduino IDE
            1. Copy main.c content as text
